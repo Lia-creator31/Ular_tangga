@@ -1,0 +1,4 @@
+﻿  projectDlg.cpp
+D:\KULIAH\SEMESTER 3\PRAKTIKUM BAHASA PEMROGRAMAN\PRAKTIKUM\project\project\projectDlg.cpp(394,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\KULIAH\SEMESTER 3\PRAKTIKUM BAHASA PEMROGRAMAN\PRAKTIKUM\project\project\projectDlg.cpp(583,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  project.vcxproj -> D:\KULIAH\SEMESTER 3\PRAKTIKUM BAHASA PEMROGRAMAN\PRAKTIKUM\project\Debug\project.exe
